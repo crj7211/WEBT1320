@@ -1,0 +1,144 @@
+body {
+    background-color: #576154;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+    border-radius: 5px;
+}
+
+a {
+    color: #CF6F85;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #959863;   
+    text-decoration: none;
+}
+
+#container {
+    background-color: #F2F2F0;
+    width: 85%;
+    margin: 20px auto;
+    border: #CF6F85 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    color: #576154;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #A63838;
+    margin-top: 20px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    padding: 10px;
+}
+
+nav li a {
+    display: block;
+    background-color: #959863;
+    color: #F0E2DF;
+    text-decoration: none;
+    font-weight: bold; 
+    width: 150px;
+    border-radius: 5px;
+    height: 25px;
+    line-height: 25px;
+}
+
+nav li a:hover {
+    background-color: #CF6F85;
+    color: #F0E2DF;
+}
+
+main h2 {
+    color: #576154;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.multi_col {
+    display: flex;
+}
+
+section, aside {
+    border-radius: 5px;
+    margin: 20px;
+    padding: 10px;
+}
+
+section {
+    width: 75%;
+}
+
+aside {
+    width: 25%;
+    background-color: #576154;
+    color: #F0E2DF;
+}
+
+.half-layout {
+    display: flex;
+}
+
+.half-layout section, .half-layout aside {
+    width: 50%;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 10px;
+    background-color: #F0E2DF;
+    color: #576154;
+}
+
+.img_style {
+    box-shadow: 2px 2px 5px #63735F;
+}
+
+iframe {
+    margin: 20px auto;
+    display: block;
+    box-shadow: 2px 2px 5px #000000;
+    border-radius: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+#history-section {
+    background-color: #F0E2DF;
+}
+
+#history-photo {
+    max-width: 10%;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+    border-radius: 5px;
+}

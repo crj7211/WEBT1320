@@ -24,6 +24,18 @@ a:hover {
     text-decoration: none;
 }
 
+h1 {
+    color: #262622;
+}
+
+h2 {
+    color: #591E2E;
+}
+
+h3 {
+    color: #BF304A;
+}
+
 /* Mobile Styles */
 
 #container {

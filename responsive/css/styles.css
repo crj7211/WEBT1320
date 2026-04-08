@@ -99,6 +99,7 @@ iframe {
     border: none;
     border-radius: 5px;
     box-shadow: #022601 0px 4px 8px;
+    display: block;
 }
 #footer-photo {
     width: 15%;
@@ -160,6 +161,7 @@ iframe {
         border: none;
         border-radius: 5px;
         box-shadow: #022601 0px 4px 8px;
+        display: block;
     }
 
     #footer-photo {
@@ -208,6 +210,7 @@ iframe {
         border: none;
         border-radius: 5px;
         box-shadow: #022601 0px 4px 8px;
+        display: block;
     }
 
     #footer-photo {

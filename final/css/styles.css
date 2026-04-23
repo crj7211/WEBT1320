@@ -470,6 +470,20 @@ footer {
     position: absolute;
     left: -9999px;
 }
+
+.video-section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.video-section p{
+    color: #274775;
+}
+
+.video-section iframe {
+    max-width: 100%;
+    border-radius: 12px;
+}
 }
 
 @media (max-width: 1024px) {

@@ -380,11 +380,11 @@ footer {
 
 /* Learning Resources Section */
 .resources-title {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     margin-left: 60px;
     font-size: 20px;
     color: #1f3f6d;
-    margin-top: 18px;
+    margin-top: 15px;
 }
 
 /* book list */
@@ -399,7 +399,7 @@ footer {
     font-size: 30px;
     font-weight: lighter;
     color: #1f3f6d;
-    margin-bottom: 18px;
+    margin-bottom: 10px;
 }
 
 .book-card {
@@ -674,6 +674,7 @@ footer {
     font-weight: lighter;
     color: #1f3f6d;
     margin-bottom: 18px;
+    margin-top: 0;
 }
 
 .book-card {
@@ -970,12 +971,14 @@ footer {
     font-weight: lighter;
     color: #1f3f6d;
     margin-bottom: 15px;
+    margin-top: 0;
 }
 
 .books-section h3 {
     font-size: 17px;
     color: #1f3f6d;
     margin-bottom: 10px;
+    margin-top: 0;
 }
 
 .book-card {

@@ -23,6 +23,16 @@
                 <li><a href="wellness.html">Work-Life Balance</a></li>
             </ul>
         </nav>
+        <div class="mobile-nav">
+        <label for="page-select" class="sr-only">Choose a page</label>
+        <select id="page-select" onchange="if(this.value) window.location.href=this.value;">
+            <option value="">Menu</option>
+            <option value="index.html">Home</option>
+            <option value="goals.html">Goals &amp; Mindset</option>
+            <option value="resume.html">Resume Tips</option>
+            <option value="resources.html">Learning Resources</option>
+            <option value="wellness.html">Work-Life Balance</option>
+        </select>
     </div>
 </header>
 <section class="hero hero-sub">
@@ -57,7 +67,7 @@
                     from criticism, and find lessons in the success of others.  </p>
                 <p></p>
                 <p></p>
-                <img src="images/fixedgrowthmindset.png">
+                <img src="images/fixedgrowthmindset.png" style="display: block; margin: 0 auto;">
                 <hr>
                 <h3>Benefits of a Growth Mindset</h3>
                 <ul>
